@@ -39,3 +39,5 @@ I’m hoping that by having a daily posting schedule, this blog will hold me acc
 If you’ve come across this blog by visiting one of my daily posts, you will have noticed the time trackers on each post. This is because the average student (in the UK at least), is expected to complete roughly 1200 hours of study each year when studying for a degree. Because I want an education in web development that is comparable to a degree – I intend to complete 1200 hours of study each year, in my own free time. 
 
 Thanks for reading, and thanks for following me on this journey!
+
+_Please note that this post was written on 31 May 2018, but renamed to an earlier date to ensure that this is the first blog post on this site._
