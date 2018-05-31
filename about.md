@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Just a guy trying to become a web developer. More information can be found [here](https://thomasjbell7.github.io/A-Brief-Introduction/).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you would like to get in touch, please send an email to [thomasjbell8@gmail.com](mailto:thomasjbell8@gmail.com). Thanks!
