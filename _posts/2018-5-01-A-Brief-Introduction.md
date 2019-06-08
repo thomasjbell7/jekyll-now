@@ -11,7 +11,7 @@ This post serves as an FAQ, explaining what I want to achieve and what this blog
 
 I have attempted to learn web development a few times in the past, and although it does interest me significantly it has never stuck. I’ve always ended up with other things that take over my life, and web development tends to fall to the back of my priority list. I’m going to make sure that this doesn’t happen again.
 
-I do have some HTML and CSS experience from when I’ve tried to learn web development before – but I have forgotten almost all of this. I also started a degree with the [Open University](http://www.open.ac.uk/). , but decided that it wasn’t for me and quit before I even completed a module. My main programming experience (and some might not call it ‘true’ programming experience) is with Microsoft Excel VBA. I am very good at using Microsoft Excel generally, and I also taught myself some beginner/intermediate macros and functions using VBA. 
+I do have some HTML and CSS experience from when I’ve tried to learn web development before – but I have forgotten almost all of this. My main programming experience (and some might not call it ‘true’ programming experience) is with Microsoft Excel VBA. I am very good at using Microsoft Excel generally, and I also taught myself some beginner/intermediate macros and functions using VBA. 
 
 Hopefully my knowledge of general programming rules (loops etc.) that I gained by learning how to use VBA will help me learn new programming languages easier, however I am classing myself as a complete beginner as I have forgotten almost everything I have learnt about web development in the past.
 
